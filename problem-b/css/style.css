@@ -40,11 +40,6 @@ p, dl {
     margin-bottom: 1rem;
 }
 
-
-
-/* Might need to change this one later */
-
-
 header {
     color: white;
     padding-top: 6rem;
@@ -98,7 +93,6 @@ footer p:last-child {
     padding-top: 8px;
 }
 
-/* This too */
 p.motto {
     font-style: italic;
     font-size: 1.25rem;
@@ -129,7 +123,6 @@ nav li {
     margin: 0 1rem;
 }
 
-/* This too */
 nav a:hover {
     color: #f0f0f0;
     border-bottom: 0.8rem solid #f0f0f0;
