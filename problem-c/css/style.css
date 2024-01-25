@@ -24,7 +24,7 @@ section.first {
 }
 
 section.second {
-  flex: 1 0;
+  flex: 1;
   background-color: #eee;
 }
 
